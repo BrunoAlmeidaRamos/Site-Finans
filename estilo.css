@@ -1,3 +1,7 @@
+* {
+    scroll-behavior: smooth;
+}
+
 #inicio {
     background-color: #FFC107;
 }
